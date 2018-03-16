@@ -1,3 +1,4 @@
+
 1、App/Common/Conf/db.php 数据库连接参数修改；
 
 2、App/Api/Conf/config.php 微信小程序的appid、secret、mchid、key、notify_url，SELF_ROOT的参数修改；
@@ -13,3 +14,6 @@
 小程序源码：https://github.com/hxxy2003/wechat_shop_xcx
 
 bbbbbbb
+
+# caicai
+
